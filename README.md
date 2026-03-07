@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_bi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-soni-dev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mr_bi2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mr_bi2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_bi2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr_bi2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonibhavesh.dev@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_bi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-soni-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonibhavesh.dev@gmail.com) 
 
 ---
 
