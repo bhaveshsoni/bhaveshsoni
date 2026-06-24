@@ -2,7 +2,7 @@
 # Hi there, I'm Bhavesh Soni 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Enterprise+App+Architect;PHP+%7C+Java+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Enterprise+App+Architect;Java+%7C+PHP+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 ### 🛠 Tech Stack
